@@ -4,6 +4,8 @@
 
 - 基于flume 1.7.0源码修改
 
+**[源码修改说明](https://imperio-wxm.github.io/2020/12/20/Flume-TaildirSource-Expand/)**
+
 ## 此项目是对 flume TaildirSource源码的一个扩展
 
 由于flume自带的TaildirSource仅仅支持对`根目录`的监听，即无法监听子目录
