@@ -54,6 +54,8 @@ agent.sinks.r1.type=logger
 
 ## 启动测试
 
+- maven 打包，将`multiple-taildir-source-1.0.jar`放在 `flume/lib` 下
+
 ```shell
 ../bin/flume-ng agent -n agent -f ../conf/flume-conf.properties -c ../conf -Dflume.root.logger=INFO,console
 ```
