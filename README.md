@@ -4,7 +4,7 @@
 
 - 基于flume 1.7.0源码修改
 
-**[源码修改说明](https://imperio-wxm.github.io/2020/12/20/Flume-TaildirSource-Expand/)**
+**[源码修改说明](https://imperio-wxm.github.io/2019/12/20/Flume-TaildirSource-Expand/)**
 
 ## 此项目是对 flume TaildirSource源码的一个扩展
 
